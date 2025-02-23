@@ -3,6 +3,8 @@
 ## Overview
 
 The Multi-Agent Conversation and Stand-up Comedy project is an agentic AI system designed to facilitate dynamic, interactive conversations among multiple AI agents while generating and delivering humorous content in the form of stand-up comedy. This project leverages large language models (LLMs), reinforcement learning, and conversational AI techniques to simulate engaging and entertaining dialogues.
+![image](https://github.com/user-attachments/assets/52a528f2-8239-421b-8645-6dad5bbed955)
+
 
 ## Features
 
